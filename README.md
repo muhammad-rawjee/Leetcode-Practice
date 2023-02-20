@@ -4,8 +4,8 @@
 
 1. Contains Duplicate (Leetcode 217.) ✅
 2. Valid Anagram (Leetcode 242.) ✅
-3. Two Sum (Leetcode 1.)
-4. Group Anagrams (Leetcode 49.)
+3. Two Sum (Leetcode 1.) ✅
+4. Group Anagrams (Leetcode 49.) ✅
 5. Top K Frequent Elements (Leetcode 347.)
 6. Product of Array Except Self (Leetcode 238.)
 7. Valid Sudoku (Leetcode 36.)
