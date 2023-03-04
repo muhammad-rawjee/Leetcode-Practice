@@ -6,8 +6,8 @@
 2. Valid Anagram (Leetcode 242.) ✅
 3. Two Sum (Leetcode 1.) ✅
 4. Group Anagrams (Leetcode 49.) ✅
-5. Top K Frequent Elements (Leetcode 347.) ✅
-6. Product of Array Except Self (Leetcode 238.) ✅
+5. Top K Frequent Elements (Leetcode 347.)
+6. Product of Array Except Self (Leetcode 238.)
 7. Valid Sudoku (Leetcode 36.)
 8. Encode and Decode Strings (Leetcode 271.)
 9. Longest Consecutive Sequence (Leetcode 128.)
@@ -57,9 +57,38 @@
 9. LRU Cache (Leetcode 146.)
 
 ## Trees
+1. Invert Binary Tree	
+2. Maximum Depth of Binary Tree	
+3. Diameter of Binary Tree	
+4. Balanced Binary Tree	
+5. Same Tree	
+6. Subtree of Another Tree	
+7. Lowest Common Ancestor of a Binary Search Tree	
+8. Binary Tree Level Order Traversal	
+9. Binary Tree Right Side View	
+10. Count Good Nodes In Binary Tree	
+11. Validate Binary Search Tree	
+12. Kth Smallest Element In a Bst	
+13. Construct Binary Tree From Preorder And Inorder Traversal
 
 ## Tries
+1. Implement Trie Prefix Tree	
+2. Design Add And Search Words Data Structure
 
 ## Heaps
+1. Kth Largest Element In a Stream	
+2. Last Stone Weight	
+3. K Closest Points to Origin	
+4. Kth Largest Element In An Array	
+5. Task Scheduler	
+6. Design Twitter
 
-## Backtracking 
+## Backtracking
+1. Subsets	
+2. Combination Sum	
+3. Permutations	
+4. Subsets II	
+5. Combination Sum II	
+6. Word Search	
+7. Palindrome Partitioning	
+8. Letter Combinations of a Phone Number
