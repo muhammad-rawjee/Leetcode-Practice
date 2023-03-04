@@ -6,8 +6,8 @@
 2. Valid Anagram (Leetcode 242.) ✅
 3. Two Sum (Leetcode 1.) ✅
 4. Group Anagrams (Leetcode 49.) ✅
-5. Top K Frequent Elements (Leetcode 347.)
-6. Product of Array Except Self (Leetcode 238.)
+5. Top K Frequent Elements (Leetcode 347.) ✅
+6. Product of Array Except Self (Leetcode 238.) ✅
 7. Valid Sudoku (Leetcode 36.)
 8. Encode and Decode Strings (Leetcode 271.)
 9. Longest Consecutive Sequence (Leetcode 128.)
