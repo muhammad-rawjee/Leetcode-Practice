@@ -10,7 +10,7 @@
 6. Product of Array Except Self (Leetcode 238.) ✅
 7. Valid Sudoku (Leetcode 36.) ✅
 8. Encode and Decode Strings (Leetcode 271.) ✅
-9. Longest Consecutive Sequence (Leetcode 128.)
+9. Longest Consecutive Sequence (Leetcode 128.) ✅
 
 ## Two Pointers
 
