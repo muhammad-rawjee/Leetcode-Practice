@@ -15,7 +15,7 @@
 ## Two Pointers
 
 1. Valid Palindrome (Leetcode 125.) ✅
-2. Two Sum II Input Array Is Sorted (Leetcode 167.)
+2. Two Sum II Input Array Is Sorted (Leetcode 167.) ✅
 3. 3Sum (Leetcode 15.)
 4. Container With Most Water(Leetcode 11.)
 
