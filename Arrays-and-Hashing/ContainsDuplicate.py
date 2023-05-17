@@ -1,19 +1,16 @@
+
 class Solution:
-    def containsDuplicate(self, nums: List[int]) -> bool:
+    def containsDuplicate(self, nums) -> bool:
         
-        '''
-        for i in range(len(nums)):
-            if nums[i] in nums[i + 1:]:
-                return True
-        return False
-        '''
 
-        hashset = set()
+        hash_set = set()
 
-        for num in nums:
-            if num in hashset:
+        for elem in nums:
+            if elem in hash_set:
                 return True
-            
-            hashset.add(num)
+            hash_set.add(elem)
 
         return False
+ali = Solution()
+
+print(ali.containsDuplicate([1,2,4]))
