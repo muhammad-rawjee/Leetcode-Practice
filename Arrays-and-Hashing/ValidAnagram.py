@@ -1,5 +1,5 @@
 class Solution:
-    def isAnagram(self, s: str, t: str) -> bool:
+    def isAnagram(self, s, t) -> bool:
         """
         anagram_hashset = set()
 
@@ -12,17 +12,20 @@ class Solution:
         
         return True
         """
-        countT, countS = {}, {}
-
+        # Set up hash map
+        countS, countT = {}, {}
+        # Obvious
         if len(s) != len(t):
             return False
-        
+        # Fill up Hash Maps
         for i in range(len(s)):
             countS[s[i]] = 1 + countS.get(s[i], 0)
             countT[t[i]] = 1 + countT.get(t[i], 0)
         
-        for elem in countS:
-            if countS[elem] != countT.get(elem, 0):
+        # Check for equivalency
+        for i in range(len(s)):
+            if countS[s[i]] != countT.get(s[i], 0):
                 return False
         
         return True
+    
