@@ -1,5 +1,5 @@
 class Solution:
-    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+    def topKFrequent(self, nums, k):
         count = {}
         freq = [[] for i in range(len(nums) + 1)]
 
@@ -16,4 +16,13 @@ class Solution:
                 result.append(elem)
                 if (len(result) == k):
                     return result
+
+    
+    
+
+# Testing
+
+a = Solution()
+print(a.topKFrequent([1,1,1,2,2,100], 1))
+
                 
